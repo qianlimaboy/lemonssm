@@ -2,8 +2,9 @@ package com.lssm.mapper;
 
 import com.lssm.model.LemonGroupUser;
 import com.lssm.model.LemonGroupUserExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 public interface LemonGroupUserMapper {
     /**
