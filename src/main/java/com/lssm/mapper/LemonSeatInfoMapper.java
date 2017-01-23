@@ -2,8 +2,9 @@ package com.lssm.mapper;
 
 import com.lssm.model.LemonSeatInfo;
 import com.lssm.model.LemonSeatInfoExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 public interface LemonSeatInfoMapper {
     /**
